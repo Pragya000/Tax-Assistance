@@ -48,8 +48,7 @@ The AI-Powered Tax Assistant is an automated tax filing system that simplifies t
 ### **Backend Setup**
 ```bash
 cd backend
-pip install -r requirements.txt  # If using Django
-npm install  # If using Node.js
+npm install  
 ```
 
 ### **Frontend Setup**
@@ -102,7 +101,5 @@ CREATE DATABASE tax_assistant;
 ## License
 This project is licensed under the MIT License.
 
----
-For questions or contributions, contact [Your Email or GitHub Link].
 
 
