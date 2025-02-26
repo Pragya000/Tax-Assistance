@@ -1,0 +1,25 @@
+.section {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+  }
+  
+  .formGroup {
+    margin-bottom: 15px;
+  }
+  
+  .formGroup label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .formGroup input,
+  .formGroup select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
