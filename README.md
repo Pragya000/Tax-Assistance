@@ -22,16 +22,16 @@ The AI-Powered Tax Assistant is an automated tax filing system that simplifies t
 - Redux / Context API (State Management)
 
 ### **Backend**
-- Node.js / Django (REST API & Business Logic)
-- Express.js / FastAPI (Routing)
-- PostgreSQL / MySQL (Relational Database)
-- MongoDB / Redis (Caching & NoSQL Storage)
+- Node.js (REST API & Business Logic)
+- Express.js  (Routing)
+- PostgreSQL  (Relational Database)
+
 
 ### **AI/ML Processing**
 - Python (Machine Learning & Data Processing)
-- TensorFlow / PyTorch (ML Model Development)
+- TensorFlow (ML Model Development)
 - Tesseract OCR (Text Extraction)
-- NLTK / SpaCy (NLP Processing)
+- SpaCy (NLP Processing)
 
 ### **Cloud & Deployment**
 - AWS / Google Cloud / Azure (Cloud Hosting)
